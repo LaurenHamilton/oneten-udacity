@@ -1,0 +1,58 @@
+
+
+body {
+    min-height: 100%;
+    text-align: left;
+    vertical-align: middle;
+}
+
+
+h3 {
+    padding: 1px;
+    color: rgb(68, 48, 33);
+    text-align: center;
+    
+}
+
+.card{
+    display: block;
+    position: fixed;
+    width: 400px;
+    border: 2px groove rgb(171, 172, 171);
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(222, 207, 189);
+}
+
+#facts {
+    font-style: italic;
+}
+
+img { 
+    
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+  }
+
+ul{
+    width: 400px;
+    list-style-type: none;
+    text-align: left;
+    padding: 1px;
+}
+
+
+span{
+    font-weight: bold;
+}
+
+.info{
+    border-style: dashed;
+    border-width: 1px;
+    border-color: rgb(68, 48, 33);
+    margin: 20px;
+    padding: 20px;
+}
